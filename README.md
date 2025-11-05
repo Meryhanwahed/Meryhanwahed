@@ -58,7 +58,7 @@ An intelligent real estate display system built with **Angular**, focusing on pr
 
 ### 📄 Download My CV  
 <p align="left">
-  <a href="/assets/" target="_blank">
+  <a href="/assets/mycv.pdf" target="_blank">
     <img src="https://img.shields.io/badge/📎 Download%20CV-0A66C2?style=for-the-badge" />
   </a>
 </p>
@@ -66,5 +66,6 @@ An intelligent real estate display system built with **Angular**, focusing on pr
 ---
 
 ⭐ **"Code with purpose, design with empathy, and build for people."**
+
 
 
